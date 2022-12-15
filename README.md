@@ -20,12 +20,12 @@ To clone a project, perform the following steps:
 
 1. Go to **Projects**.
 2. Select the three dots button next to the project.
-3. Click and choose Clone.
+3. Click and choose **Clone**.
 
 ![Clone Feature](https://user-images.githubusercontent.com/10261553/207786005-4f7c0b08-a834-470e-b008-32d462c8b272.png)
 
 4. Provide a new unique name.
-5. Choose the required items to be cloned.
+5. Select the properties that must be cloned.
 
 ![Clone project window](https://user-images.githubusercontent.com/10261553/207795125-7c978e0b-cf36-49a7-9810-b43535d4f381.png)
 
@@ -34,12 +34,12 @@ To clone a project, perform the following steps:
 
 ![enter image description here](https://user-images.githubusercontent.com/10261553/207838145-3e79c971-2c8e-4d73-a45e-1ceda3ad2533.png)
 
+Once you've finished cloning, you see a notification, including the name of the new project, indicating that the project was successfully created.
 
 ## Things to consider
 
-
 ### Project name
-As seen in the second screenshot, the new project has a clearable default name.
+The new project, as seen in the second screenshot, has a clearable default name.
 
 - The format of the default name is **\<Original project name\> (1)**. 
 
@@ -50,4 +50,4 @@ name\> (1)**, the cloned project name will be **\<Original project name\> (1) (1
 
 ### Properties
 
-By default, all of the properties are checked. However, as shown in the third screenshot, some of the properties are interdependent. If you deselect Classes, for example, the Workflow checkbox is automatically unchecked and will not be copied to the new project.
+By default, all of the properties are checked. However, as shown in the third screenshot, some of the properties are interdependent. If you deselect Classes, for example, the Workflow checkbox is automatically unchecked and is not copied to the new project.
