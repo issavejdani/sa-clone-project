@@ -24,6 +24,8 @@ To clone a project, perform the following steps:
 
 Once you've finished cloning, you will see a notification at the bottom left corner of the page. This notification indicates that the project cloning was successful.
 
+![successful project clone](https://user-images.githubusercontent.com/10261553/207838145-3e79c971-2c8e-4d73-a45e-1ceda3ad2533.png)
+
 
 > ### Who can clone projects?
 >Only Team Admins can clone projects.
