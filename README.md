@@ -10,6 +10,8 @@ You can create projects similar to the existing ones without having to configure
  
 This document contains a step-by-step guide for cloning a project.
 
+![Clone Feature](https://user-images.githubusercontent.com/10261553/207786005-4f7c0b08-a834-470e-b008-32d462c8b272.png)
+
 ## Clone an existing project
 
 To clone a project, perform the following steps:
@@ -25,7 +27,7 @@ Once you've finished cloning, you will see a notification at the bottom left cor
 
 
 > ### Who can rename projects?
-> Only Team Owners and Team Admins can rename projects.
+>Only Team Owners and Team Admins can rename projects.
 
 > ### Project name
 >The new project has an editable default name, as seen in the second screenshot.
