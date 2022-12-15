@@ -1,11 +1,9 @@
 # Cloning a project
-- [Cloning a project](#cloning-a-project)
-  - [Introduction](#introduction)
-  - [Clone an existing project](#clone-an-existing-project)
-  - [Things to consider](#things-to-consider)
-    - [Project name](#project-name)
-    - [Properties](#properties)
-
+- [Introduction](#introduction)
+- [Clone an existing project](#clone-an-existing-project)
+- [Things to consider](#things-to-consider)
+  - [Project name](#project-name)
+  - [Properties](#properties)
 ## Introduction
  
 Adding new projects to the team space is one of the primary activities that you do as a team administrator. Sometimes this activity requires a lot of steps or can be error-prone and time-consuming. That is where the new clone project feature comes in handy. This new feature allows you to duplicate a project in fewer steps, saving you time and effort.
