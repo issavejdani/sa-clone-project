@@ -1,4 +1,5 @@
 # Cloning a project
+- [Cloning a project](#cloning-a-project)
   - [Introduction](#introduction)
   - [Clone an existing project](#clone-an-existing-project)
   - [Things to consider](#things-to-consider)
@@ -32,19 +33,19 @@ To clone a project, perform the following steps:
 
 ![enter image description here](https://user-images.githubusercontent.com/10261553/207838145-3e79c971-2c8e-4d73-a45e-1ceda3ad2533.png)
 
-Once you've finished cloning, you will see a notification on the bottom left of the page, indicating that you've successfully cloned the project.
+Once you've finished cloning, you see a notification at the bottom left corner of the page. This notification indicates that the project cloning was successful.
 
 ## Things to consider
 
 ### Project name
-The new project, as seen in the second screenshot, has a clearable default name.
+The new project, as seen in the second screenshot, has an editable default name.
 
 - The format of the default name is **\<Original project name\> (1)**. 
 
-- If there is already a project with the name **\<Original project
-name\> (1)**, the cloned project name will be **\<Original project name\> (1) (1)**. 
+- If **\<Original project
+name\> (1)** already exists, the new project name changes to **\<Original project name\> (1) (1)**. 
 
-- If **\<Original project name\> (1)** is cloned while **\<Original project name\> (1) (1)** already exists, the name of the newly created project will be **\<Original project name\> (1) (2)** and so on.
+- If **\<Original project name\> (1)** is cloned while **\<Original project name\> (1) (1)** already exists, the name of the newly created project changes to **\<Original project name\> (1) (2)** and so on.
 
 ### Properties
 
