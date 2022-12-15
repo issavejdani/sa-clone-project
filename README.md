@@ -10,13 +10,13 @@
  
 Adding new projects to the team space is one of the primary activities that you do as a team administrator. Sometimes this activity requires a lot of steps or can be error-prone and time-consuming. That is where the new clone project feature comes in handy. This new feature allows you to duplicate a project in fewer steps, saving you time and effort.
  
-You can create similar projects to existing ones without configuring them from scratch. Once done, you can change the settings of the new one. 
+You can create projects that are similar to existing ones without having to configure them from scratch. Once you finish cloning them, you can modify their settings.
  
-This document covers a step by step guide on how to clone a project.
- 
+This document contains a step-by-step guide for cloning a project.
+
 ## Clone an existing project
 
-To clone a project you need to take the following steps:
+To clone a project, perform the following steps:
 
 1. Go to **Projects**.
 2. Select the three dots button next to the project.
@@ -32,13 +32,14 @@ To clone a project you need to take the following steps:
 
 6. Click **Clone**.
 
+![enter image description here](https://user-images.githubusercontent.com/10261553/207838145-3e79c971-2c8e-4d73-a45e-1ceda3ad2533.png)
 
 
 ## Things to consider
 
 
 ### Project name
-As you can see in the second screenshot there is a default name for the project which can also be customized by you. 
+As seen in the second screenshot, the new project has a clearable default name.
 
 - The format of the default name is **\<Original project name\> (1)**. 
 
@@ -49,4 +50,4 @@ name\> (1)**, the cloned project name will be **\<Original project name\> (1) (1
 
 ### Properties
 
-As you can see in the third screenshot, some of the properties are dependent on each other. For example if you uncheck **Classes** the **Workflow** checkbox is unchecked automatically. 
+By default, all of the properties are checked. However, as shown in the third screenshot, some of the properties are interdependent. If you deselect Classes, for example, the Workflow checkbox is automatically unchecked and will not be copied to the new project.
