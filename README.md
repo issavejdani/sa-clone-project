@@ -11,7 +11,7 @@ This document contains a step-by-step guide for cloning a project.
 
 ![Clone Feature](https://user-images.githubusercontent.com/10261553/207786005-4f7c0b08-a834-470e-b008-32d462c8b272.png)
 
-## Clone an existing project
+## Clone project
 
 To clone a project, perform the following steps:
 
