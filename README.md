@@ -18,15 +18,15 @@ To clone a project, perform the following steps:
 1. Go to **Projects**.
 2. Select the three dots button next to your desired project.
 3. Select **Clone** from the list.
-4. Provide a new unique name.
-5. Select the properties that must be cloned.
+4. Provide a new unique name in the popup window.
+5. Select properties that must be cloned.
 6. Click **Clone**.
 
 Once you've finished cloning, you will see a notification at the bottom left corner of the page. This notification indicates that the project cloning was successful.
 
 
-> ### Who can rename projects?
->Only Team Owners and Team Admins can rename projects.
+> ### Who can clone projects?
+>Only Team Admins can clone projects.
 
 > ### Project name
 >The new project has an editable default name.
