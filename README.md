@@ -36,4 +36,4 @@ name\> (1)** already exists, the new project name changes to **\<Original projec
 > - If **\<Original project name\> (1)** is cloned while **\<Original project name\> (1) (1)** already exists, the name of the newly created project changes to **\<Original project name\> (1) (2)** and so on.
 
 > ### Properties
-> By default, all of the properties are checked. However. Some properties are interdependent. If you clear **Classes** checkbox, for example, the **Workflow** checkbox is automatically unchecked and is not copied to the new project.
+> By default, all of the properties are checked. Some properties are interdependent. If you clear **Classes** checkbox, for example, the **Workflow** checkbox is automatically unchecked and is not copied to the new project.
