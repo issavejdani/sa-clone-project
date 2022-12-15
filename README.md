@@ -1,5 +1,4 @@
 # Cloning a project
-- [Cloning a project](#cloning-a-project)
   - [Introduction](#introduction)
   - [Clone an existing project](#clone-an-existing-project)
 ## Introduction
@@ -30,11 +29,11 @@ Once you've finished cloning, you will see a notification at the bottom left cor
 >Only Team Owners and Team Admins can rename projects.
 
 > ### Project name
->The new project has an editable default name, as seen in the second screenshot.
+>The new project has an editable default name.
 >- The default name format is **\<Original project name\> (1)**. 
 > - If **\<Original project
 name\> (1)** already exists, the new project name changes to **\<Original project name\> (1) (1)**. 
 > - If **\<Original project name\> (1)** is cloned while **\<Original project name\> (1) (1)** already exists, the name of the newly created project changes to **\<Original project name\> (1) (2)** and so on.
 
 > ### Properties
-> By default, all of the properties are checked. However, as shown in the third screenshot, some properties are interdependent. If you clear **Classes** checkbox, for example, the **Workflow** checkbox is automatically unchecked and is not copied to the new project.
+> By default, all of the properties are checked. However. Some properties are interdependent. If you clear **Classes** checkbox, for example, the **Workflow** checkbox is automatically unchecked and is not copied to the new project.
