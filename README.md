@@ -11,18 +11,18 @@ This document covers a step by step guide on how to clone a project.
 ## Clone an existing project
 As you can see in the following image, to clone a project, first you need to navigate to the list of projects in your team. 
 
-1- Go to Projects.
-2- Select the three dots button next to the project.
-3- Click and choose Clone.
+1. Go to Projects.
+2. Select the three dots button next to the project.
+3. Click and choose Clone.
 
 ![Clone Feature](https://user-images.githubusercontent.com/10261553/207786005-4f7c0b08-a834-470e-b008-32d462c8b272.png)
 
-4- Provide a new unique name
-5- Choose the required items to be cloned.
+4. Provide a new unique name
+5. Choose the required items to be cloned.
 
 ![Clone project window](https://user-images.githubusercontent.com/10261553/207795125-7c978e0b-cf36-49a7-9810-b43535d4f381.png)
 
-6- Click Clone
+6. Click Clone
 
  
 Then click the three dots next to each project. A list of project actions appears. Now click clone.
