@@ -1,9 +1,9 @@
 # Cloning a project
-- [Introduction](#introduction)
-- [Clone an existing project](#clone-an-existing-project)
-- [Things to consider](#things-to-consider)
-  - [Project name](#project-name)
-  - [Properties](#properties)
+  - [Introduction](#introduction)
+  - [Clone an existing project](#clone-an-existing-project)
+  - [Things to consider](#things-to-consider)
+    - [Project name](#project-name)
+    - [Properties](#properties)
 ## Introduction
  
 Adding new projects to the team space is one of the primary activities that you do as a team administrator. Sometimes this activity requires a lot of steps or can be error-prone and time-consuming. That is where the new clone project feature comes in handy. This new feature allows you to duplicate a project in fewer steps, saving you time and effort.
@@ -18,7 +18,7 @@ To clone a project, perform the following steps:
 
 1. Go to **Projects**.
 2. Select the three dots button next to the project.
-3. Click and choose **Clone**.
+3. Click and select **Clone**.
 
 ![Clone Feature](https://user-images.githubusercontent.com/10261553/207786005-4f7c0b08-a834-470e-b008-32d462c8b272.png)
 
@@ -32,7 +32,7 @@ To clone a project, perform the following steps:
 
 ![enter image description here](https://user-images.githubusercontent.com/10261553/207838145-3e79c971-2c8e-4d73-a45e-1ceda3ad2533.png)
 
-Once you've finished cloning, you see a notification, including the name of the new project, indicating that the project was successfully created.
+Once you've finished cloning, you will see a notification on the bottom left of the page, indicating that you've successfully cloned the project.
 
 ## Things to consider
 
