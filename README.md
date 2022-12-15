@@ -32,14 +32,14 @@ To clone a project, perform the following steps:
 
 ![enter image description here](https://user-images.githubusercontent.com/10261553/207838145-3e79c971-2c8e-4d73-a45e-1ceda3ad2533.png)
 
-Once you've finished cloning, you see a notification at the bottom left corner of the page. This notification indicates that the project cloning was successful.
+Once you've finished cloning, you will see a notification at the bottom left corner of the page. This notification indicates that the project cloning was successful.
 
 ## Things to consider
 
 ### Project name
-The new project, as seen in the second screenshot, has an editable default name.
+The new project has an editable default name, as seen in the second screenshot.
 
-- The format of the default name is **\<Original project name\> (1)**. 
+- The default name format is **\<Original project name\> (1)**. 
 
 - If **\<Original project
 name\> (1)** already exists, the new project name changes to **\<Original project name\> (1) (1)**. 
@@ -48,4 +48,4 @@ name\> (1)** already exists, the new project name changes to **\<Original projec
 
 ### Properties
 
-By default, all of the properties are checked. However, as shown in the third screenshot, some of the properties are interdependent. If you deselect Classes, for example, the Workflow checkbox is automatically unchecked and is not copied to the new project.
+By default, all of the properties are checked. However, as shown in the third screenshot, some properties are interdependent. If you deselect Classes, for example, the Workflow checkbox is automatically unchecked and is not copied to the new project.
