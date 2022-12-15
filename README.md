@@ -5,7 +5,7 @@
  
 Adding new projects to the team space is one of your primary activities as a team administrator. This activity requires several steps or can be error-prone and time-consuming. That is where the new **clone** project feature comes in handy. This new feature allows you to duplicate a project in fewer steps, saving you time and effort.
  
-You can create projects similar to the existing ones without having to configure them from scratch. Once you finish cloning them, you can modify their settings.
+You can create projects similar to the existing ones without having to configure them from scratch. Once you've finished cloning them, you can modify their settings.
  
 This document contains a step-by-step guide for cloning a project.
 
