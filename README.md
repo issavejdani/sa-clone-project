@@ -48,4 +48,4 @@ name\> (1)** already exists, the new project name changes to **\<Original projec
 
 ### Properties
 
-By default, all of the properties are checked. However, as shown in the third screenshot, some properties are interdependent. If you uncheck Classes checkbox, for example, the Workflow checkbox is automatically unchecked and is not copied to the new project.
+By default, all of the properties are checked. However, as shown in the third screenshot, some properties are interdependent. If you uncheck **Classes** checkbox, for example, the **Workflow** checkbox is automatically unchecked and is not copied to the new project.
