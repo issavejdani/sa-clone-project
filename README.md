@@ -31,7 +31,7 @@ Once you've finished cloning, you will see a notification at the bottom left cor
 >Only Team Admins can clone projects.
 
 > ### Project name
->The new project has an editable default name inside the popup window.
+>The new project has an editable default name.
 >- The default name format is **\<Original project name\> (1)**. 
 > - If **\<Original project
 name\> (1)** already exists, the new project name changes to **\<Original project name\> (1) (1)**. 
