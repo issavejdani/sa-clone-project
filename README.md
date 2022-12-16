@@ -3,7 +3,7 @@
   - [Clone an existing project](#clone-an-existing-project)
 ## Introduction
  
-Adding new projects to the team space is one of your primary activities as a Team Admin. This activity requires several steps or can be error-prone and time-consuming. That is where the new **clone** project feature comes in handy. This new feature allows you to duplicate a project in fewer steps, saving you time and effort.
+Adding new projects to the team space is one of your primary activities as a Team Admin. This activity requires several steps or can be time-consuming. That is where the new **clone** project feature comes in handy. This new feature allows you to duplicate a project in fewer steps, saving you time and effort.
  
 You can create projects similar to the existing ones without having to configure them from scratch. Once you've finished cloning them, you can modify their settings.
  
@@ -29,6 +29,8 @@ Once you've finished cloning, you will see a notification at the bottom left cor
 
 > ### Who can clone projects?
 >Only Team Admins can clone projects.
+
+> When you clone a project, no items are copied or moved to the new project. Properties (based on what you've selected) are the only items that are copied to the new project.
 
 > ### Project name
 >The new project has an editable default name.
