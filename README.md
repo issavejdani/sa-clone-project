@@ -11,6 +11,9 @@ This document contains a step-by-step guide for cloning a project.
 
 ![Clone Feature](https://user-images.githubusercontent.com/10261553/207786005-4f7c0b08-a834-470e-b008-32d462c8b272.png)
 
+
+> When you clone a project, no items are copied or moved to the new project. Properties (based on what you've selected) are the only items that are copied to the new project.
+
 ## Clone project
 
 To clone a project, perform the following steps:
@@ -29,8 +32,6 @@ Once you've finished cloning, you will see a notification at the bottom left cor
 
 > ### Who can clone projects?
 >Only Team Admins can clone projects.
-
-> When you clone a project, no items are copied or moved to the new project. Properties (based on what you've selected) are the only items that are copied to the new project.
 
 > ### Project name
 >The new project has an editable default name.
